@@ -1,21 +1,22 @@
 
 body
 {
-	background-color: hotpink;
+	background-color: blanchedalmond;
 	margin: 0px;
 	padding: 0px;
 }
 
 h1 {
-
+	color: hotpink;
     
 }
 
 h2 {
-    
+    color: deeppink;
 }
 
 p {
+	color:black;
 
 }
 
@@ -38,12 +39,14 @@ p {
 	.h2{
 		color: cornflowerblue;
 		font-stretch:25%;
+		font-size:2rem;
+
 
 	}
 	.p{
 		color:ghostwhite;
 		font-stretch:15%;
-
+		font-size:1rem;
 
 	}
 }
